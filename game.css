@@ -4,7 +4,7 @@
   width: 720px;
   border: solid 1px #ddd;
   margin: 0 auto;
-  background: #3ac7fe;
+  background: #000500;
   border: solid 10px;
   text-align: center;
   min-height: 430px;
@@ -18,10 +18,10 @@
 }
 
 .btn:hover {
-  background: dodgerblue;
+  background: rgb(26, 119, 17);
 }
 
-.game h3 {
+.game h1 {
   padding: 10px;
   background: black;
   color: white;
@@ -30,7 +30,6 @@
 .game .game-body {
   padding: 20px;
 }
-
 .game .game-options {
   text-align: center;
 }
